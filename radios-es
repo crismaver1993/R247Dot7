@@ -4,7 +4,7 @@
          "id":1,
          "name":"Radio1",
          "city":"Monterrey",
-         "cityCode": 81
+         "cityCode": 81,
          "url":"http://stream.zeno.fm/9apd805pp8quv.aac",
          "src":"https://cldup.com/ZpaII-2RW8.png",
          "country":"MX",
@@ -12,13 +12,15 @@
          "language":"ES",
          "playing":false,
          "isFeatured":false,
+         "recommendedBy": "Dot7",
+         "website": "",
          "description": ""
       },
       {
          "id":2,
          "name":"Radio2",
          "city":"Santa Ana",
-         "cityCode": 83
+         "cityCode": 83,
          "url":"http://stream.zeno.fm/9apd805pp8quv.aac",
          "src":"https://cldup.com/ZpaII-2RW8.png",
          "country":"USA",
@@ -26,6 +28,8 @@
          "language":"EN",
          "playing":false,
          "isFeatured":false,
+         "recommendedBy": "Dot7",
+         "website": "",
          "description": ""
       }
    ]
