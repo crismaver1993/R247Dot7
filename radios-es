@@ -1,5 +1,4 @@
-{
-   "radios":[
+[
       {
          "id":1,
          "name":"Radio1",
@@ -33,4 +32,3 @@
          "description": ""
       }
    ]
-}
