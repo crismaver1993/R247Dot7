@@ -121,7 +121,7 @@
       "city":"Monterrey",
       "address":"",
       "cityCode":81,
-      "url":"https://22823.live.streamtheworld.com/RADIO_ESPERANZA_1140AM.mp3",
+      "url":"https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ESPERANZA_1140AM.mp3",
       "src":"https://cldup.com/-fkYI77nT8.jpg",
       "country":"MX",
       "letter":"E",
