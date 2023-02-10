@@ -557,5 +557,28 @@
       "instaId":"",
       "tiktok":"",
       "description":""
+   },
+    {
+      "id": 25,
+      "name":"Heraldo Monterrey",
+      "city":"Monterrey, México",
+      "address":"",
+      "cityCode":81,
+      "url":"http://n10.radiojar.com/xg47kvrbubkvv?rj-ttl=5&rj-tok=AAABhjuGlhAAEFfY-Ue1x8Fnsg",
+      "src":"https://cldup.com/eVt7iHUa-5.webp",
+      "country":"MX",
+      "letter":"",
+      "language":"ES",
+      "playing":false,
+      "isFeatured":false,
+      "isNewRadio":false,
+      "recommendedBy":"Dot7",
+      "website":"https://heraldodemexico.com.mx/radio/",
+      "fb":"",
+      "fbId":"",
+      "insta":"",
+      "instaId":"",
+      "tiktok":"",
+      "description":""
    }
 ]
