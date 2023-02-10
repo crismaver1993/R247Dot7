@@ -442,5 +442,28 @@
       "instaId":"",
       "tiktok":"",
       "description":""
+   },
+   {
+      "id": 20,
+      "name":"Radio Naranjera",
+      "city":"Montemorelos, Nuevo León, México",
+      "address":"",
+      "cityCode":826,
+      "url":"https://icecasthd.net/proxy/radionaranjera/live",
+      "src":"https://cloudup.com/i8f9caWP-Ay",
+      "country":"MX",
+      "letter":"",
+      "language":"ES",
+      "playing":false,
+      "isFeatured":false,
+      "isNewRadio":false,
+      "recommendedBy":"Dot7",
+      "website":"https://radionaranjera.com.mx/",
+      "fb":"",
+      "fbId":"",
+      "insta":"",
+      "instaId":"",
+      "tiktok":"",
+      "description":""
    }
 ]
