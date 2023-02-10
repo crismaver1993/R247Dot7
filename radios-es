@@ -373,5 +373,28 @@
       "instaId":"",
       "tiktok":"",
       "description":""
+   },
+   {
+      "id": 17,
+      "name":"Banda 93.3",
+      "city":"Monterrey, México",
+      "address":"",
+      "cityCode":81,
+      "url":"https://26373.live.streamtheworld.com/XHQQ_FMAAC.aac",
+      "src":"https://cldup.com/0OyMnjBDkW.png",
+      "country":"MX",
+      "letter":"",
+      "language":"ES",
+      "playing":false,
+      "isFeatured":false,
+      "isNewRadio":false,
+      "recommendedBy":"Dot7",
+      "website":"https://banda933.com.mx/",
+      "fb":"",
+      "fbId":"",
+      "insta":"",
+      "instaId":"",
+      "tiktok":"",
+      "description":""
    }
 ]
