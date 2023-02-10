@@ -534,5 +534,28 @@
       "instaId":"",
       "tiktok":"",
       "description":""
+   },
+   {
+      "id": 24,
+      "name":"Genesis 98.1 ",
+      "city":"Monterrey, México",
+      "address":"",
+      "cityCode":81,
+      "url":"http://streamingcwsradio30.com:8238/stream/1/",
+      "src":"https://cldup.com/k1xkl0v3DZ.png",
+      "country":"MX",
+      "letter":"",
+      "language":"ES",
+      "playing":false,
+      "isFeatured":false,
+      "isNewRadio":false,
+      "recommendedBy":"Dot7",
+      "website":"https://genesis981.com.mx/",
+      "fb":"",
+      "fbId":"",
+      "insta":"",
+      "instaId":"",
+      "tiktok":"",
+      "description":""
    }
 ]
