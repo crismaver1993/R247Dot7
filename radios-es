@@ -396,5 +396,28 @@
       "instaId":"",
       "tiktok":"",
       "description":""
+   },
+    {
+      "id": 18,
+      "name":"Café Romántico Radio",
+      "city":"Monterrey, México",
+      "address":"",
+      "cityCode":81,
+      "url":"https://panel.retrolandigital.com/listen/cafe_romantico_radio/listen",
+      "src":"https://cldup.com/BQF-MFmhSl.png",
+      "country":"MX",
+      "letter":"",
+      "language":"ES",
+      "playing":false,
+      "isFeatured":false,
+      "isNewRadio":false,
+      "recommendedBy":"Dot7",
+      "website":"https://caferomanticoradio.com/",
+      "fb":"",
+      "fbId":"",
+      "insta":"",
+      "instaId":"",
+      "tiktok":"",
+      "description":""
    }
 ]
