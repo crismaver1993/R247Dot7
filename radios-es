@@ -419,5 +419,28 @@
       "instaId":"",
       "tiktok":"",
       "description":""
+   },
+     {
+      "id": 19,
+      "name":"La T Grande (Monterrey)",
+      "city":"Monterrey, México",
+      "address":"",
+      "cityCode":81,
+      "url":"https://26583.live.streamtheworld.com/XETAM_SC",
+      "src":"https://cldup.com/8WZ5f3-Jfv.png",
+      "country":"MX",
+      "letter":"",
+      "language":"ES",
+      "playing":false,
+      "isFeatured":false,
+      "isNewRadio":false,
+      "recommendedBy":"Dot7",
+      "website":"https://www.multimedios.com/radio/programas/la-t-grande-xet-990-am-monterrey",
+      "fb":"",
+      "fbId":"",
+      "insta":"",
+      "instaId":"",
+      "tiktok":"",
+      "description":""
    }
 ]
