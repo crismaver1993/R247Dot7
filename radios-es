@@ -511,5 +511,28 @@
       "instaId":"",
       "tiktok":"",
       "description":""
+   },
+    {
+      "id": 23,
+      "name":"Opus 1510 am",
+      "city":"Monterrey, México",
+      "address":"",
+      "cityCode":81,
+      "url":"https://s5.mexside.net:2000/stream/libertad/stream/1/",
+      "src":"https://cldup.com/CBIvQikG-9.png",
+      "country":"MX",
+      "letter":"",
+      "language":"ES",
+      "playing":false,
+      "isFeatured":false,
+      "isNewRadio":false,
+      "recommendedBy":"Dot7",
+      "website":"https://www.nl.gob.mx/campanas/escucha-radio-nuevo-leon",
+      "fb":"",
+      "fbId":"",
+      "insta":"",
+      "instaId":"",
+      "tiktok":"",
+      "description":""
    }
 ]
