@@ -488,5 +488,28 @@
       "instaId":"",
       "tiktok":"",
       "description":""
+   },
+   {
+      "id": 22,
+      "name":"Libertad 102.1 Fm",
+      "city":"Monterrey, México",
+      "address":"",
+      "cityCode":81,
+      "url":"https://s5.mexside.net:2000/stream/libertad/stream/1/",
+      "src":"https://cldup.com/V7lnHoklbV.png",
+      "country":"MX",
+      "letter":"",
+      "language":"ES",
+      "playing":false,
+      "isFeatured":false,
+      "isNewRadio":false,
+      "recommendedBy":"Dot7",
+      "website":"https://www.nl.gob.mx/campanas/escucha-radio-nuevo-leon",
+      "fb":"",
+      "fbId":"",
+      "insta":"",
+      "instaId":"",
+      "tiktok":"",
+      "description":""
    }
 ]
